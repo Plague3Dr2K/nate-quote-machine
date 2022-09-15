@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nate-quote-machine/static/css/main.7ef93e47.css",
+    "main.js": "/nate-quote-machine/static/js/main.83eae224.js",
+    "static/js/787.e43a185d.chunk.js": "/nate-quote-machine/static/js/787.e43a185d.chunk.js",
+    "index.html": "/nate-quote-machine/index.html",
+    "main.7ef93e47.css.map": "/nate-quote-machine/static/css/main.7ef93e47.css.map",
+    "main.83eae224.js.map": "/nate-quote-machine/static/js/main.83eae224.js.map",
+    "787.e43a185d.chunk.js.map": "/nate-quote-machine/static/js/787.e43a185d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef93e47.css",
+    "static/js/main.83eae224.js"
+  ]
+}
